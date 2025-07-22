@@ -1,0 +1,1 @@
+# to-find-the-number-is-strong-number-or-not
